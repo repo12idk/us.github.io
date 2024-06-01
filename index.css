@@ -1,0 +1,30 @@
+.zooming_effect {
+  color: black;
+  transition: transform 0.2s;
+  position: relative;
+  display: inline-block;
+  justify-content: space-between;
+}
+.zooming_effect:hover {
+  transform: scale(1.4, 1.6);
+}
+
+figure figcaption {
+  text-align: center;
+  font: oblique;
+  margin: 10px 10px 10px 10px;
+  color: white;
+}
+
+.image-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.image-row2 {
+  display: flex;
+  justify-content: space-around;
+}
+/* .image_effects {
+  margin: 60px 60px 60px 60px;
+} */
