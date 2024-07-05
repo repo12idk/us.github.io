@@ -1,0 +1,9 @@
+.myDiv {
+  display: flex;
+  justify-content: space-between;
+  color: black;
+  transition: transform 0.2s;
+  position: relative;
+  display: inline-block;
+  justify-content: space-between;
+}
